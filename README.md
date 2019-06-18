@@ -30,7 +30,9 @@ for mac: <br>
 for windows: <br>
  ```npm run package-win``` <br>
 for linux: <br>
-```npm run package-linux``` 
+```npm run package-linux``` <br>
+
+for more information visit https://www.christianengvall.se/electron-packager-tutorial/ for packing the application
 
 
 
