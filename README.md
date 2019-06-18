@@ -9,11 +9,11 @@ Use VScode editor for better development.
 
 ## Do the following to pack the application as .exe file
 step1: To install the Electron Packager <br>
-```npm install --save-dev electron-packager``` \
+```npm install --save-dev electron-packager``` <br>
 
-therefore the dependency will be added to the package.json files \
+therefore the dependency will be added to the package.json files <br>
 
-step2: Add these lines inside the "script" in package.json . 
+step2: Add these lines inside the "script" in package.json . <br>
 
 ```
 "package-mac": "electron-packager . --overwrite --platform=darwin --arch=x64 --icon=assets/icons/mac/icon.icns --prune=true --out=release-builds",
@@ -22,14 +22,14 @@ step2: Add these lines inside the "script" in package.json .
 
 ```
 
-replace the icons and the name of the application accordingly \
+replace the icons and the name of the application accordingly <br>
 
-now to pack the application run the following command \
-for mac: \
-```npm run package-mac``` \
-for windows: \
- ```npm run package-win``` \
-for linux: \
+now to pack the application run the following command <br>
+for mac: <br>
+```npm run package-mac``` <br>
+for windows: <br>
+ ```npm run package-win``` <br>
+for linux: <br>
 ```npm run package-linux``` 
 
 
