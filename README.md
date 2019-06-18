@@ -8,7 +8,7 @@ type this command in the terminal.your system should have a valid internet conne
 Use VScode editor for better development.
 
 ## Do the following to pack the application as .exe file
-step1: To install the Electron Packager \
+step1: To install the Electron Packager <br>
 ```npm install --save-dev electron-packager``` \
 
 therefore the dependency will be added to the package.json files \
