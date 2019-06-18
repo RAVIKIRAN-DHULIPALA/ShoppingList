@@ -32,7 +32,7 @@ for windows: <br>
 for linux: <br>
 ```npm run package-linux``` <br>
 
-for more information visit https://www.christianengvall.se/electron-packager-tutorial/ for packing the application
+for more information about packing the application visit https://www.christianengvall.se/electron-packager-tutorial/ 
 
 
 
