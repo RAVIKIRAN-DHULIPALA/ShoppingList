@@ -10,7 +10,9 @@ Use VScode editor for better development.
 ## Do the following to pack the application as .exe file
 step1: To install the Electron Packager \
 ```npm install --save-dev electron-packager``` \
+
 therefore the dependency will be added to the package.json files \
+
 step2: Add these lines inside the "script" in package.json . 
 
 ```
